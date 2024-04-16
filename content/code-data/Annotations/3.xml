@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>JPEGImages</folder>
+	<filename>3.jpg</filename>
+	<path>C:\Users\stone\Desktop\VOC2021\JPEGImages\f16fc4957dd5881e67644760ada8027b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>604</width>
+		<height>402</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>code</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>172</ymin>
+			<xmax>310</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,5 @@
+train: ../code-data/train/images
+val: ../code-data/valid/images
+
+nc: 1
+names: ['code']
